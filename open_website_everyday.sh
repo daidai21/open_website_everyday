@@ -22,12 +22,12 @@ then
     # self
     open https://www.zhihu.com/
 
-    # open https://github.com/trending
-    open https://github.com/trending?spoken_language_code=zh
-    open https://github.com/trending/java?since=daily&spoken_language_code=zh
+    open https://github.com/trending
+    # open https://github.com/trending?spoken_language_code=zh
+    # open https://github.com/trending/java?since=daily&spoken_language_code=zh
     # open https://github.com/trending/c?since=daily
     # open https://github.com/trending/c++?since=daily
-    open https://github.com/trending/java?since=daily
+    # open https://github.com/trending/java?since=daily
     # open https://github.com/trending/go?since=daily
     # open https://github.com/trending/python?since=daily
 
@@ -39,35 +39,64 @@ then
     open http://mail.aliyun.com/
 
     open https://v2ex.com/
-    open https://v2ex.com/?tab=tech
-    open https://v2ex.com/?tab=jobs
+    # open https://v2ex.com/?tab=tech
+    # open https://v2ex.com/?tab=jobs
     # open https://v2ex.com/go/jobs
 
-    open https://weibo.com/
+    # open https://weibo.com/
 
-    open https://www.nowcoder.com/
-    open https://www.nowcoder.com/discuss?type=3
+    # open https://www.nowcoder.com/
+    # open https://www.nowcoder.com/discuss?type=3
 
-    open https://medium.com/
+    # open https://medium.com/
 
     # pd 论坛
     open https://www.pmcaff.com/
-    open https://mail.google.com/
+    # open https://mail.google.com/
 
-    open https://www.douban.com/
-    open https://www.douban.com/group/
-    open https://www.douban.com/gallery/
+    # open https://www.douban.com/
+    # open https://www.douban.com/group/
+    # open https://www.douban.com/gallery/
 
     # blog
     # open https://netflixtechblog.com/
 
     # 产品经理、运营 论坛
-    open http://www.woshipm.com/
+    # open http://www.woshipm.com/
+
+
+    open https://www.infoq.cn/
+
+
+elif [ "$1" = "blog" ]
+then
+    # blog
 
     # 技术blog
     open https://www.jdon.com/
 
-    open https://www.infoq.cn/
+
+    # 并发编程网
+    open http://ifeve.com/
+
+    # java知音
+    open https://www.javazhiyin.com/
+
+
+    open https://pythonhunter.org/
+
+    # 一个很酷的modern c++开源社区
+    open http://purecpp.org/
+
+    # 
+    https://ohmyrss.com/#
+
+elif [ "$1" = "blog.self" ]
+then
+
+    # 构建我的被动收入
+    open https://www.bmpi.dev/
+
 
 elif [ "$1" = "play" ]
 then
