@@ -97,6 +97,11 @@ then
     # 构建我的被动收入
     open https://www.bmpi.dev/
 
+    # 云原生实验室
+    https://fuckcloudnative.io/
+
+    https://pythonhunter.org/
+    https://laike9m.com/blog/about/
 
 elif [ "$1" = "play" ]
 then
