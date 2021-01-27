@@ -64,6 +64,8 @@ then
     # 产品经理、运营 论坛
     # open http://www.woshipm.com/
 
+    # 各个平台的热榜
+    open https://tophub.today/
 
     open https://www.infoq.cn/
 
@@ -80,28 +82,27 @@ then
     open http://ifeve.com/
 
     # java知音
-    open https://www.javazhiyin.com/
+    # open https://www.javazhiyin.com/
 
 
-    open https://pythonhunter.org/
+    # open https://pythonhunter.org/
 
     # 一个很酷的modern c++开源社区
-    open http://purecpp.org/
+    # open http://purecpp.org/
 
     # 
-    https://ohmyrss.com/#
+    open https://ohmyrss.com/#
 
 elif [ "$1" = "blog.self" ]
 then
 
     # 构建我的被动收入
-    open https://www.bmpi.dev/
+    # open https://www.bmpi.dev/
 
     # 云原生实验室
-    https://fuckcloudnative.io/
+    # https://fuckcloudnative.io/
 
-    https://pythonhunter.org/
-    https://laike9m.com/blog/about/
+    # https://laike9m.com/blog/about/
 
 elif [ "$1" = "play" ]
 then
