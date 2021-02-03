@@ -93,6 +93,9 @@ then
     # 
     open https://ohmyrss.com/#
 
+    # tester discuss
+    open https://testerhome.com/
+
 elif [ "$1" = "blog.self" ]
 then
 
