@@ -96,6 +96,8 @@ then
     # tester discuss
     open https://testerhome.com/
 
+    open https://www.infoq.com/
+
 elif [ "$1" = "blog.self" ]
 then
 
