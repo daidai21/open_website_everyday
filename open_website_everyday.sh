@@ -27,6 +27,7 @@ then
     echo "* discuss"
     echo "* blog_self"
     echo "* mail"
+    echo "* study"
     echo "===================="
     exit 1
 fi
@@ -78,6 +79,7 @@ then
     open https://github.com/collections
     open https://github.com/explore
 
+    open https://slack.com/
 elif [ "$1" = "buy" ]
 then
     # 什么值得买
@@ -163,5 +165,14 @@ then
     open http://mail.aliyun.com/
 
     open https://mail.google.com/
+
+elif [ "$1" = "study" ]
+then
+    # mooc
+    open https://www.icourse163.org/
+
+    open https://www.edx.org/
+
+    open https://www.coursera.org/courses
 
 fi
