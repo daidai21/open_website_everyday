@@ -80,6 +80,9 @@ then
     open https://github.com/explore
 
     open https://slack.com/
+
+    open https://groups.google.com/
+    open https://gitter.im/
 elif [ "$1" = "buy" ]
 then
     # 什么值得买
@@ -88,7 +91,7 @@ then
 
 elif [ "$1" = "infor" ]
 then
-
+    # rss订阅工具，订阅了很多blog
     open https://ohmyrss.com/#
 
     # 知乎热榜
@@ -124,6 +127,11 @@ then
     # pd 论坛
     open https://www.pmcaff.com/
 
+    # quora
+    open https://www.quora.com/
+
+    # 
+    open https://www.reddit.com/
 
 elif [ "$1" = "blog" ]
 then
