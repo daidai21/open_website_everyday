@@ -140,6 +140,14 @@ then
     # 技术blog 解道
     open https://www.jdon.com/
 
+    # kcp作者blog
+    open http://www.skywind.me/blog/
+
+    # pingcap 开发者
+    open https://youjiali1995.github.io/
+
+    # 陈硕 C++ muduo
+    open https://www.cnblogs.com/Solstice/
 
     # 并发编程网
     open http://ifeve.com/
