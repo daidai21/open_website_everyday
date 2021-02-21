@@ -133,6 +133,9 @@ then
     # 
     open https://www.reddit.com/
 
+    # AI Hub
+    open https://www.kuxai.com/
+
 elif [ "$1" = "blog" ]
 then
     # blog
