@@ -168,6 +168,9 @@ then
 
     open https://www.infoq.com/
 
+    # 黄勇 CTO 武汉理工大学学士。曾任阿里巴巴公司系统架构师
+    open https://my.oschina.net/huangyong
+
 elif [ "$1" = "blog_self" ]
 then
 
