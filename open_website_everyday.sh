@@ -83,6 +83,9 @@ then
 
     open https://groups.google.com/
     open https://gitter.im/
+
+    # gitlab
+    open https://gitlab.com/
 elif [ "$1" = "buy" ]
 then
     # 什么值得买
@@ -100,7 +103,7 @@ then
     # 各个平台的热榜
     open https://tophub.today/
 
-
+    open https://www.jiqizhixin.com/
 
 elif [ "$1" = "discuss" ]
 then
