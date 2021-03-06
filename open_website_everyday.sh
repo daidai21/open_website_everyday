@@ -174,6 +174,10 @@ then
     # 黄勇 CTO 武汉理工大学学士。曾任阿里巴巴公司系统架构师
     open https://my.oschina.net/huangyong
 
+    open https://tech.youzan.com/
+
+    open https://tech.meituan.com/
+
 elif [ "$1" = "blog_self" ]
 then
 
@@ -181,9 +185,9 @@ then
     open https://www.bmpi.dev/
 
     # 云原生实验室
-    https://fuckcloudnative.io/
+    open https://fuckcloudnative.io/
 
-    https://laike9m.com/blog/about/
+    open https://laike9m.com/blog/about/
 
 elif [ "$1" = "mail" ]
 then
