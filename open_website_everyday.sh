@@ -139,6 +139,9 @@ then
     # AI Hub
     open https://www.kuxai.com/
 
+    # 鱼塘热榜
+    open https://mo.fish/
+
 elif [ "$1" = "blog" ]
 then
     # blog
