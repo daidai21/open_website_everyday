@@ -192,6 +192,9 @@ then
 
     open https://laike9m.com/blog/about/
 
+    # 宋净超 云原生 大佬
+    open https://jimmysong.io/
+
 elif [ "$1" = "mail" ]
 then
     open http://mail.aliyun.com/
