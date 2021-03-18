@@ -181,6 +181,9 @@ then
 
     open https://tech.meituan.com/
 
+    # netflix
+    open https://netflixtechblog.com/
+
 elif [ "$1" = "blog_self" ]
 then
 
@@ -194,6 +197,9 @@ then
 
     # 宋净超 云原生 大佬
     open https://jimmysong.io/
+
+    # aws cto
+    open https://www.allthingsdistributed.com/
 
 elif [ "$1" = "mail" ]
 then
