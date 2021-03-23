@@ -142,9 +142,15 @@ then
     # 鱼塘热榜
     open https://mo.fish/
 
+    # 
+    open https://kubernetes.io/
+
 elif [ "$1" = "blog" ]
 then
     # blog
+
+    # 小米高工 专注kubernetes和istio
+    open https://www.qikqiak.com/
 
     # 技术blog 解道
     open https://www.jdon.com/
