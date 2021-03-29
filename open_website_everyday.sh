@@ -145,6 +145,9 @@ then
     # 
     open https://kubernetes.io/
 
+    # 阿拉丁总榜 微信小程序指数排名平台
+    open http://www.aldzs.com/
+
 elif [ "$1" = "blog" ]
 then
     # blog
