@@ -152,6 +152,9 @@ elif [ "$1" = "blog" ]
 then
     # blog
 
+    # jetbrains 中文博客
+    open https://blog.jetbrains.com/zh-hans/
+
     # 小米高工 专注kubernetes和istio
     open https://www.qikqiak.com/
 
