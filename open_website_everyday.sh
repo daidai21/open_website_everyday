@@ -122,6 +122,8 @@ then
 
     open https://v2ex.com/
 
+    open https://news.ycombinator.com/news
+
     # 牛客讨论区
     open https://www.nowcoder.com/discuss
     # 牛客讨论区 - 工作以后
